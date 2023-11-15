@@ -1,0 +1,20 @@
+/* additional styles for player card */
+.player--card {
+  width: 18rem;
+  background: linear-gradient(45deg, #bababa, #ada4a8, #dcdcdc, #cccdcd);
+  box-shadow: rgba(40, 44, 48, 0.3) 1px 0px 0px 3px;
+}
+
+/* additional styles for jersey number */
+.jersey--no {
+  font-family: "Ubuntu", sans-serif;
+  color: rgb(236, 236, 225);
+  text-align: center;
+  width: 50px;
+}
+
+/* additional styles for jersey icon */
+.fa--jersey {
+  width: 65px;
+  height: 50px;
+}
