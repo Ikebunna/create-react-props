@@ -24,7 +24,7 @@ const Player = (props) => {
       <Card.ImgOverlay className="d-flex">
         <FontAwesomeIcon
           icon={faShirt}
-          style={{ color: "rgb(41, 30, 105)" }}
+          style={{ color: "#7a1547" }}
           className="fa--jersey"
         />
         <Card.ImgOverlay className="">
@@ -37,7 +37,7 @@ const Player = (props) => {
         <Card.Title className="fw-bold">{props.name}</Card.Title>
       </Card.Body>
 
-      <ListGroup className="list-group-flush bg-primary fst-italic fw-normal">
+      <ListGroup className="list-group-flush bg-danger fst-italic fw-normal">
         <ListGroup.Item>{props.team}</ListGroup.Item>
         <ListGroup.Item>{props.nationality}</ListGroup.Item>
         <ListGroup.Item>Age: {props.age}</ListGroup.Item>

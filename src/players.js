@@ -17,7 +17,7 @@ export const players = [
     nationality: "Argentinian",
     jerseyNumber: "33",
     age: 36,
-    imageURL: "https://cdn.futbin.com/content/fifa17/img/players/158023.png",
+    imageURL: "https://cdn.futbin.com/content/fifa22/img/players/158023.png",
   },
   {
     id: 3,

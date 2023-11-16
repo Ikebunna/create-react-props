@@ -1,8 +1,8 @@
 /* additional styles for player card */
 .player--card {
   width: 18rem;
-  background: linear-gradient(45deg, #bababa, #ada4a8, #dcdcdc, #cccdcd);
-  box-shadow: rgba(40, 44, 48, 0.3) 1px 0px 0px 3px;
+  background: linear-gradient(-45deg, #ffffff, #ffffff, #ffffff, #7a15474d);
+  box-shadow: #7a15474d 1px 0px 0px 1px;
 }
 
 /* additional styles for jersey number */
